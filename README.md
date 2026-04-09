@@ -1,12 +1,12 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=F7DF1E&center=true&vCenter=true&width=500&lines=👋+Olá,+eu+sou+o+Henrique;;" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=1000&size=28&duration=2000&pause=3000&color=7233F7FF&center=true&vCenter=true&width=500&lines=👋+Olá,+eu+sou+o+Henrique;" alt="Typing SVG" />
 </div>
 
 ---
 
 ## 🚀 Sobre mim 
 
-
+- 🎓 **Cursando:** Ciência da Computação na **FUMEC**.
 - 🎯 **Focado** em crescer como desenvolvedor de software.  
 - 📚 **Estudando** lógica, algoritmos e novas linguagens todos os dias.  
 - ⚡ **Curioso** por tecnologia, inovação e como as coisas funcionam.
@@ -62,5 +62,5 @@
   ⭐ Obrigado por visitar meu perfil!
     
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=800080&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=7233F7FF&section=footer" />
 </div>
