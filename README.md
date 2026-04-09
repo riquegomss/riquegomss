@@ -2,38 +2,35 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=F7DF1E&center=true&vCenter=true&width=500&lines=👋+Olá,+eu+sou+o+Henrique;💻+Desenvolvedor+em+evolução;🚀+Sempre+aprendendo..." alt="Typing SVG" />
 </div>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SEU_USERNAME&label=Perfil+Views&color=0077b5&style=flat-square" alt="Views" />
+</p>
+
 ---
 
 ## 🚀 Sobre mim
 
-
-
 - 🎯 **Focado** em crescer como desenvolvedor de software.  
 - 📚 **Estudando** lógica, algoritmos e novas linguagens todos os dias.  
-- ⚡ **Curioso** por tecnologia, inovação e como as coisas funcionam por baixo do capô.
+- ⚡ **Curioso** por tecnologia, inovação e como as coisas funcionam.
 - 🌱 Atualmente explorando o ecossistema **Java** e **Python**.
-
-<br clear="right">
 
 ---
 
 ## 🛠️ Tecnologias & Ferramentas
 
-Minha caixa de ferramentas principal, organizada por stack:
-
-| Categoria | Tecnologias |
-| :--- | :--- |
-| **Linguagens** | ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white ) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white ) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black ) |
-| **Frontend** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white ) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white ) |
-| **Ferramentas** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white ) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white ) ![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white ) |
-
-  
-
-
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,js,java,py,git,vscode,github,linux" />
   </a>
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
 ---
@@ -41,15 +38,17 @@ Minha caixa de ferramentas principal, organizada por stack:
 ## 📊 Meu Ecossistema GitHub
 
 <p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true" />
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=dracula&langs_count=6&hide_border=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USERNAME&theme=dracula&hide_border=true" />
+</p>
+
+<p align="center">
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USERNAME&theme=dracula&hide_border=true" />
 </p>
 
 ---
 
 ## 📫 Vamos Conversar?
-
-Sinta-se à vontade para entrar em contato para trocar uma ideia sobre tecnologia ou projetos!
 
 <p align="left">
   <a href="mailto:email@email.com">
