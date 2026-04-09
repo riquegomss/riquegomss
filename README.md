@@ -18,7 +18,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,js,java,py,git,vscode,github,linux" />
+    <img src="https://skillicons.dev/icons?i=html,js,java,py,git,vscode,github" />
   </a>
 </p>
 
@@ -35,8 +35,8 @@
 ## 📊 Meu Ecossistema GitHub
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=dracula&langs_count=6&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=riquegomss&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riquegomss&layout=compact&theme=dracula&langs_count=6&hide_border=true" />
 </p>
 
 <p align="center">
