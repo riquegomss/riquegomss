@@ -59,7 +59,7 @@
 ---
 
 <div align="center">
-  ⭐ **Obrigado por visitar meu perfil!**
+  ⭐ Obrigado por visitar meu perfil!
     
 
   <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=800080&section=footer" />
