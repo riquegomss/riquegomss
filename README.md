@@ -2,13 +2,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=F7DF1E&center=true&vCenter=true&width=500&lines=👋+Olá,+eu+sou+o+Henrique;💻+Desenvolvedor+em+evolução;🚀+Sempre+aprendendo..." alt="Typing SVG" />
 </div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=riquegomss&label=Perfil+Views&color=0077b5&style=flat-square" alt="Views" />
-</p>
-
 ---
 
-## 🚀 Sobre mim
+## 🚀 Sobre mim 
+
 
 - 🎯 **Focado** em crescer como desenvolvedor de software.  
 - 📚 **Estudando** lógica, algoritmos e novas linguagens todos os dias.  
@@ -43,18 +40,18 @@
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USERNAME&theme=dracula&hide_border=true" />
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=riquegomss&theme=dracula&hide_border=true" />
 </p>
 
 ---
 
-## 📫 Vamos Conversar?
+## 📫 Meus Contatos
 
 <p align="left">
-  <a href="mailto:email@email.com">
+  <a href="mailto:riquesoares572@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://www.linkedin.com/in/SEU_LINKEDIN">
+  <a href="https://www.linkedin.com/in/henrique-gomes-914079397/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
