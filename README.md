@@ -62,5 +62,5 @@
   ⭐ **Obrigado por visitar meu perfil!**
     
 
-  <img src="[https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer)" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=800080&section=footer" />
 </div>
