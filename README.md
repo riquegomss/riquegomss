@@ -34,10 +34,7 @@
 
 ## 📊 Meu Ecossistema GitHub
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=riquegomss&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riquegomss&layout=compact&theme=dracula&langs_count=6&hide_border=true" />
-</p>
+
 
 <p align="center">
   <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=riquegomss&theme=dracula&hide_border=true" />
