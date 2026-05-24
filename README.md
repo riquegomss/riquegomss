@@ -7,7 +7,7 @@
 ## 🚀 Sobre mim 
 
 - 🎓 **Cursando:** Ciência da Computação na **FUMEC**.
-- 🎯 **Focado** em crescer como desenvolvedor de software.  
+- 🎯 **Focado** em crescer como desenvolvedor de software, e cybersecurity.  
 - 📚 **Estudando** lógica, algoritmos e novas linguagens todos os dias.  
 - ⚡ **Curioso** por tecnologia, inovação e como as coisas funcionam.
 - 🌱 Atualmente explorando o ecossistema **Java**, **Python**, **HTML**, **CSS**, **Java-Script**
